@@ -1,6 +1,6 @@
 **CJ Note.**
 
-This is a cloned GIT repository originally from Twitter, I do not own this code. The original repo has since been deleted.
+This is a cloned GIT repository originally from Twitter, I do not own this code. The original repo has since been deleted. I am unsure as to why the original repo was deleted and can't find the author. I would love to give credit if they come across this message, please message me on Twitter @_CJMAYES.
 
 
 
