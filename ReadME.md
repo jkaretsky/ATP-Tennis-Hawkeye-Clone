@@ -1,3 +1,10 @@
+**CJ Note.**
+
+This is a cloned GIT repository originally from Twitter, I do not own this code.
+
+
+
+
 ### Read ME
 
 This repo contains tracking data in tennis, scraped from CourtVision. To link data files and reconstruct an entire match, you will need to link files from all of the `ball_trajectory`, `play_by_play`and `misc` directories. Check out the example script `djokovic_example.R`  in the `example` folder for an application.
